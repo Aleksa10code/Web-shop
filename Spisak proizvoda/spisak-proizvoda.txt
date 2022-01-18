@@ -1,0 +1,141 @@
+---- WOOD SHOP SPISAK PROIZVODA ----
+
+1. Barske stolice
+
+- Barska stolica sa naslonom
+-opis: stolica sa naslonom
+-cena: 34000
+
+- Barska stolica classic
+-opis: Classic barska stolica
+-cena: 23000
+
+- Barska stolica
+-opis: Barske stolice
+-cena: 29000
+
+2. Fotelje
+
+Fotelja lux
+-lux fotelja
+-32000
+
+3. Klub stolovi
+
+Klub sto - Parena bukva
+-opis: Sto - parena bukva
+-cena: 37000
+
+Klub sto - trapez
+-opis: sto-Trapez
+-cena: 43000
+
+Klub sto - parena bukva
+-opis: sto- parena bukva
+-cena: 50000
+
+Klub sto - krug
+-opis: sto krug
+-cena: 35000
+
+Klub sto - Polygon
+-opis: Polygon
+-cena: 40000
+
+Klub sto, krug
+-opis: klub sto
+-cena: 36000
+
+4. Komode
+
+Komoda plus
+-opis: plus
+-cena: 50000
+
+Komoda - oak natur
+-opis: oak natur
+-cena: 52000
+
+Komoda oak sa staklom
+-opis: oak sa staklom
+-cena: 39000
+
+Komoda oak only
+-opis: oak only
+-cena: 52000
+
+Komoda romboid
+-opis: romboid
+-cena: 60000
+
+Komoda-oak natur
+-opis: oak natur
+-cena: 50000
+
+5. Ploce
+
+Ploca kuvani orah
+-opis: kuvani orah
+-cena: 47000
+
+Ploca Orah
+-opis: orah ploce
+-cena: 36000
+
+Ploca hrast
+-opis: hrast
+-cena: 30000
+
+6. Postolja
+
+Postolje XQ2
+-opis: postolje xq2
+-cena: 32000
+
+Postolje XQ
+-opis: XQ postolje
+-cena: 41000
+
+Postolje X za krug
+-opis: postolje x krug
+-cena: 30000
+
+Postolje Trapez
+-opis: postolje trapez
+45000
+
+Postolje P
+-opis: postolje p
+-cena: 40000
+
+Postolje X
+-opis: postolje x
+-cena: 35000
+
+7. Trpezarijski sto
+
+Trpezarijski sto - X MDF
+-opis: sto X MDF
+-cena: 70000
+
+Trpezarijski sto - x live
+-opis: sto - x live
+-cena: 40000
+
+Trpezarisjki sto - w
+-opis: sto w
+-cena: 65000
+
+Trpezarijski sto - spider
+-opis: sto spider
+-cena 60000
+
+Trpezarijski sto - P
+-opis: sto P
+-cena: 50000
+
+Trpezarijski sto - Kirvudave ivice
+-opis: trpezarijski sto
+-cena 45000
+
+

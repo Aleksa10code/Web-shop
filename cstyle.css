@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{font-family: prime; src:url(grafika/Prime-Regular.ttf);}
+@font-face{font-family: geomanist; src:url(grafika/Geomanist-Regular.otf);}
+html{font-size:100%;}
+body{margin:0; padding:0; font-size:16px; font-family:geomanist;}
+*{box-sizing:border-box;}
+
+/* HEAD */ 
+header{width:100%; height:60px; line-height:60px; background:#1a1a1a; position:fixed; left:0; top:0; z-index:2;}
+header::after{clear:both; display:table; content:"";}
+
+administrator{float:left; width:180px; height:60px; padding-left:10px; position:relative; color:#fff; font-size:18px;}
+header img{width:30px; height:30px; display:block; float:left; margin:15px;}
+login{display:block; float:left; width:160px; height:60px; color:#ff0;}
+naslov{float:left; width:200px; text-align:center; position:relative; font-size:24px; color:#fff;}
+/* MENI */
+aside{width:240px; height:2000px; background:#fff; position:fixed; left:0; top:60px; z-index:2; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+aside a{display:block; width:100%; height:50px; line-height:50px; text-decoration:none; font-size:18px; color:#222; padding-left:10px; position:relative;}
+
+/* FUTER */
+.footer{width:100%; height:60px; position:relative; margin:0; background:#222;}
